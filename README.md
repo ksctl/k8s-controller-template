@@ -1,4 +1,4 @@
-![CoverPage Social Media](./asserts/img/cover.svg)
+![CoverPage Social Media](./assets/img/cover.svg)
 
 Here's a boilerplate README for your GitHub repository:  
 
